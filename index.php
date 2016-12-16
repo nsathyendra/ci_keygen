@@ -1,5 +1,5 @@
 <?php
-function get_key($length=32) {
+function get_key( $length = 32 ) {
 	$characters = array(
 		'a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm',
 		
